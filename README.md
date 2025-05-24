@@ -115,8 +115,7 @@ Você pode alterar os valores das matrizes de transformação em `src/main.js` p
 
 ## Créditos
 
-- Projeto desenvolvido por José Vitor dos Santos Fernandes.
-- Visualização baseada em [Three.js](https://threejs.org/).
+- Projeto desenvolvido por José Vitor dos Santos Fernandes e aprimorado por Kauã Vinícios Cruz Bezerra
 
 ## Licença
 
