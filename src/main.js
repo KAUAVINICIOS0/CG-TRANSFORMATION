@@ -3,7 +3,7 @@ import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js"
 import { GUI } from "dat.gui"
 
 // Valor p baseado no último dígito do RA (1)
-const p = 1
+const p = 4
 const size = p
 
 // Sistema de Referência Universal (SRU) / Sistema de Referência do Objeto (SRO)
@@ -207,7 +207,7 @@ const matrixFinal = new THREE.Matrix4()
 matrixFinal.name = 'Matriz Final'
 
 // Cor verde para p=1 (G na tabela do exercício)
-const corBase = 0x00FF00 // Verde
+const corBase = 0xFF00FF // Verde
 
 // SCENES - Cada cena mostra uma etapa da transformação
 createScene('Original (SRU)', [I], corBase)
