@@ -114,6 +114,3 @@ for (let i = 0; i < verts.length; i++) {
 MIT
 
 ---
-
-**Sugestão extra:**  
-Adicione GIFs ou screenshots das transformações, ou uma seção de "Desafios/Sugestões de experimentação" para quem quiser modificar o código. Se quiser, posso sugerir desafios ou materiais de estudo sobre computação gráfica!
