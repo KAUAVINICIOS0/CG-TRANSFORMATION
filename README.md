@@ -109,14 +109,6 @@ for (let i = 0; i < verts.length; i++) {
 - **Transformações**: operações matemáticas (matrizes) que alteram a posição, escala, orientação e reflexão dos objetos.
 - **Pipeline gráfico**: sequência de etapas que convertem coordenadas do mundo para coordenadas de tela.
 
-## Personalizando as Transformações
-
-Você pode alterar os valores das matrizes de transformação em `src/main.js` para experimentar diferentes efeitos. Por exemplo, mude os fatores de escala, ângulos de rotação ou direções de reflexão para ver como o cubo se comporta.
-
-## Créditos
-
-- Projeto desenvolvido por José Vitor dos Santos Fernandes e aprimorado por Kauã Vinícios Cruz Bezerra
-
 ## Licença
 
 MIT
